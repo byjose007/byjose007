@@ -88,17 +88,6 @@ Explorando la intersección entre tecnología y creatividad desde Valencia, Espa
 - **🔮 IA Generativa**: Experimentando con la creación de contenido asistido por IA
 - **🎛️ IoT + IA**: Fusionando sistemas inteligentes con dispositivos IoT
 
----
-
-## 📊 Actividad GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byjose007&theme=tokyonight" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=byjose007&theme=nord&column=7" alt="GitHub Trophies">
-</p>
 
 ---
 
