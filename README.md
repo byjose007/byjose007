@@ -1,6 +1,6 @@
 # ¡Hola, soy Byron! 👋
 
-**Desarrollador Full Stack | IoT Specialist | Tech Innovator | Músico**
+**Desarrollador Full Stack |  Tech Innovator | IoT Specialist | Creador Musical**
 
 Explorando la intersección entre tecnología y creatividad desde Valencia, España. Construyo soluciones innovadoras combinando mi experiencia en desarrollo full stack con mi pasión por la música y el aprendizaje continuo en IA y ciencia de datos.
 
@@ -8,10 +8,10 @@ Explorando la intersección entre tecnología y creatividad desde Valencia, Espa
 
 ## 💫 Sobre mí
 
-- 🌍 **Base de operaciones**: Valencia, España
+- 🌍 **Base de operaciones**: España
 - 💻 **Especialidad**: Desarrollo Full Stack & IoT Solutions
-- 🎵 **Pasión creativa**: Composición musical como forma de expresión alternativa
-- 🚀 **Misión actual**: Explorando ciencia de datos, machine learning e IA aplicada
+- 🎹 **Pasión creativa**: Componiendo música en mis ratos libres
+- 🚀 **Misión actual**: Explorando Ciencia de Datos, Machine Learning y todo lo relacionado con IA.
 - 🔗 **Conecta conmigo**: [byjose007@gmail.com] | [LinkedIn] | [Twitter/X]
 
 ---
