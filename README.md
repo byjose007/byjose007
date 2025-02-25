@@ -12,7 +12,7 @@ Explorando la intersección entre tecnología y creatividad desde Valencia, Espa
 - 💻 **Especialidad**: Desarrollo Full Stack & IoT Solutions
 - 🎵 **Pasión creativa**: Composición musical como forma de expresión alternativa
 - 🚀 **Misión actual**: Explorando ciencia de datos, machine learning e IA aplicada
-- 🔗 **Conecta conmigo**: [tu-email@example.com] | [LinkedIn] | [Twitter/X]
+- 🔗 **Conecta conmigo**: [byjose007@gmail.com] | [LinkedIn] | [Twitter/X]
 
 ---
 
@@ -31,7 +31,7 @@ Explorando la intersección entre tecnología y creatividad desde Valencia, Espa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=byjose007&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 ---
