@@ -81,9 +81,7 @@ Explorando la intersección entre tecnología y creatividad desde Valencia, Espa
 
 ## 🔭 Explorando Actualmente
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SvEUbsayyUlcPm41Tl/giphy.gif" width="200" alt="Data Science GIF">
-</p>
+
 
 - **🔍 Ciencia de Datos**: Explorando análisis predictivo y visualización avanzada de datos
 - **🧠 Machine Learning**: Desarrollando modelos para resolver problemas complejos
@@ -95,20 +93,16 @@ Explorando la intersección entre tecnología y creatividad desde Valencia, Espa
 ## 📊 Actividad GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byjose007&theme=tokyonight" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=nord&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=byjose007&theme=nord&column=7" alt="GitHub Trophies">
 </p>
 
 ---
 
 ## 🎵 La Música es mi Otro Lenguaje de Programación
-
-<p align="center">
-  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music GIF">
-</p>
 
 Cuando no estoy escribiendo código, me encontrarás creando música. Para mí, la composición musical es como desarrollar software: ambos requieren creatividad, estructura y pasión por crear algo que resuene con otros.
 
@@ -120,5 +114,5 @@ Cuando no estoy escribiendo código, me encontrarás creando música. Para mí, 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=byjose007&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
