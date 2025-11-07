@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Byron
 
-## 🚀 Desarrollador Full Stack | Innovador Tecnológico | Especialista en IoT
+## 🚀 Desarrollador Full Stack 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/tu_usuario)
@@ -9,13 +9,6 @@
 ### 💡 Sobre Mí
 
 Desarrollador full stack y nómada digital apasionado por transformar desafíos complejos en soluciones innovadoras. Combino tecnología de vanguardia con creatividad para crear experiencias digitales únicas, aprovechando la libertad del trabajo remoto para nutrir mi conexión global y pasión por la innovación.
-
-#### Principales Fortalezas:
-
-- 💻 Creando soluciones de alto rendimiento
-- 🌐 Perspectiva global en desarrollo de software e innovación tecnológica
-- 🚀 Adaptabilidad como superpoder profesional
-- 📱 Desarrollo de aplicaciones multiplataforma con Flutter
 
 ### 🛠️ Stack Tecnológico
 
@@ -39,9 +32,8 @@ Desarrollador full stack y nómada digital apasionado por transformar desafíos 
 
 
 ### 🔍 Áreas de Enfoque Actual
-- 🧠 Ciencia de Datos y Machine Learning
 - 🤖 Inteligencia Artificial Generativa
-- 🏡 Innovaciones en IoT y Automatización
+- 🏡 Aplicaciones IoT y Automatización
 - 📱 Desarrollo de aplicaciones móviles con Dart y Flutter
 
 ### 🎵 Más Allá del Código
