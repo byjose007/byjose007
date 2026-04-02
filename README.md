@@ -1,6 +1,6 @@
 # ¡Hola! Soy Byron
 
-## 🚀 Desarrollador Full Stack 
+## Desarrollador Full Stack 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/tu_usuario)
@@ -57,4 +57,4 @@ Desarrollo de aplicaciones web modulares con Angular y NestJS, y aplicaciones m�
 
 ---
 
-⭐️ Hecho con 💖 desde España | Tecnología + Creatividad = Innovación
+Hecho con 💖 desde España | Tecnología + Creatividad = Innovación
