@@ -39,9 +39,6 @@ Desarrollador full stack y nómada digital apasionado por transformar desafíos 
 ### Más Allá del Código
 La música es mi segundo lenguaje de programación. Creo que la composición musical y el desarrollo de software comparten la misma esencia: creatividad, estructura y la capacidad de crear algo que resuene con otros.
 
-### Mi Trayectoria en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=byjose007&show_icons=true&theme=tokyonight)
-
 ### Proyectos Destacados
 
 #### Smart Home IoT Hub
