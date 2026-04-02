@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Byron
+# ¡Hola! Soy Byron
 
 ## 🚀 Desarrollador Full Stack 
 
@@ -6,11 +6,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/tu_usuario)
 [![Correo](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:byjose007@gmail.com)
 
-### 💡 Sobre Mí
+### Sobre Mí
 
 Desarrollador full stack y nómada digital apasionado por transformar desafíos complejos en soluciones innovadoras. Combino tecnología de vanguardia con creatividad para crear experiencias digitales únicas, aprovechando la libertad del trabajo remoto para nutrir mi conexión global y pasión por la innovación.
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 #### Lenguajes
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -31,26 +31,26 @@ Desarrollador full stack y nómada digital apasionado por transformar desafíos 
 
 
 
-### 🔍 Áreas de Enfoque Actual
-- 🤖 Inteligencia Artificial Generativa
-- 🏡 Aplicaciones IoT y Automatización
-- 📱 Desarrollo de aplicaciones móviles con Dart y Flutter
+### Áreas de Enfoque Actual
+- Inteligencia Artificial Generativa
+- Aplicaciones IoT y Automatización
+- Desarrollo de aplicaciones móviles con Dart y Flutter
 
-### 🎵 Más Allá del Código
+### Más Allá del Código
 La música es mi segundo lenguaje de programación. Creo que la composición musical y el desarrollo de software comparten la misma esencia: creatividad, estructura y la capacidad de crear algo que resuene con otros.
 
-### 📊 Mi Trayectoria en GitHub
+### Mi Trayectoria en GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=byjose007&show_icons=true&theme=tokyonight)
 
-### 🏆 Proyectos Destacados
+### Proyectos Destacados
 
-#### 🚀 Smart Home IoT Hub
+#### Smart Home IoT Hub
 Solución de automatización para el hogar utilizando ESP32, Raspberry Pi y Python. Un proyecto que fusiona IoT, eficiencia energética y experiencia de usuario inteligente.
 
-#### 💻 Aplicaciones Full Stack y Móviles
+####  Aplicaciones Full Stack y Móviles
 Desarrollo de aplicaciones web modulares con Angular y NestJS, y aplicaciones móviles multiplataforma con Dart y Flutter, enfocadas en escalabilidad y rendimiento.
 
-### 📫 Conéctate Conmigo
+### Conéctate Conmigo
 ¿Quieres colaborar en proyectos innovadores? ¡Estoy siempre abierto a nuevas ideas y desafíos tecnológicos!
 
 **Email**: byjose007@gmail.com
