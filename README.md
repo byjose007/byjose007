@@ -1,6 +1,6 @@
 # ¡Hola! Soy Byron
 
-## Desarrollador Full Stack 
+## Desarrollador Web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/tu_usuario)
@@ -8,7 +8,7 @@
 
 ### Sobre Mí
 
-Desarrollador full stack y nómada digital apasionado por transformar desafíos complejos en soluciones innovadoras. Combino tecnología de vanguardia con creatividad para crear experiencias digitales únicas, aprovechando la libertad del trabajo remoto para nutrir mi conexión global y pasión por la innovación.
+Desarrollador web apasionado por transformar desafíos complejos en soluciones innovadoras. Combino tecnología de vanguardia con creatividad para crear experiencias digitales únicas
 
 ### Stack Tecnológico
 
