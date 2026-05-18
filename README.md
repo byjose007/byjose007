@@ -1,13 +1,8 @@
 <div align="center">
 
-# Byron Armijos
+<img src="./banner.svg" alt="Byron Armijos — Senior Frontend Engineer" width="100%">
 
-`Senior Frontend Engineer` · `Angular` · `TypeScript` · `Micro-Frontends`
-
-10+ años construyendo interfaces claras para decisiones complejas.
-Aviación · Salud · Banca · Seguros — sectores donde equivocarse tiene consecuencias.
-
-Alicante, España
+<br>
 
 [**enbyronment.dev →**](https://enbyronment.dev) ·
 [LinkedIn](https://www.linkedin.com/in/byjosedev/) ·
