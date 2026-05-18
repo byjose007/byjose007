@@ -6,7 +6,7 @@
 
 [**enbyronment.dev →**](https://enbyronment.dev) ·
 [LinkedIn](https://www.linkedin.com/in/byjosedev/) ·
-[CV.pdf](https://enbyronment.dev/cv_byron_armijos_capitole.pdf) ·
+[CV.pdf](https://enbyronment.dev/CV_Byron-Frontend.pdf) ·
 [byjose007@gmail.com](mailto:byjose007@gmail.com)
 
 </div>
@@ -115,7 +115,7 @@ Aprendizajes que valió la pena escribir:
 ```yaml
 disponible: Senior Frontend (Angular preferentemente)
 sectores:   producto · healthtech · fintech · govtech
-modalidad:  remoto · híbrido (Alicante) · presencial UE
+modalidad:  remoto · híbrido (Alicante)
 motiva:     equipos donde UX no es la última capa,
             sino parte del diseño desde el primer commit
 ```
@@ -124,10 +124,4 @@ motiva:     equipos donde UX no es la última capa,
 
 ---
 
-<div align="center">
 
-```typescript
-// Construido con criterio, no con plantilla.
-```
-
-</div>
