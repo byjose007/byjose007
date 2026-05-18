@@ -1,12 +1,8 @@
 <div align="center">
 
-```bash
-~ byron@enbyronment:~ $ whoami
-```
-
 # Byron Armijos
 
-`SENIOR FRONTEND ENGINEER` · `ANGULAR` · `TYPESCRIPT` · `MICRO-FRONTENDS`
+`Senior Frontend Engineer` · `Angular` · `TypeScript` · `Micro-Frontends`
 
 10+ años construyendo interfaces claras para decisiones complejas.
 Aviación · Salud · Banca · Seguros — sectores donde equivocarse tiene consecuencias.
@@ -22,22 +18,25 @@ Alicante, España
 
 ---
 
-### `~/status`
+## Ahora
 
-```bash
-$ ps -ef | grep byron --status=active
-```
-
-```
-PID    SINCE       PROCESS
-2401   02/2024     Senior Frontend @ Vueling Airlines (via Capitole Consulting)
-                   └── SPAs críticas: operaciones aeroportuarias · RRHH
-                   └── Stack: Angular 19 · Signals · WCAG 2.1 AA · AI-assisted delivery
+```typescript
+const currentRole = {
+  empresa:  "Vueling Airlines",
+  via:      "Capitole Consulting",
+  rol:      "Senior Frontend Engineer",
+  desde:    "Febrero 2024",
+  enfoque: [
+    "SPAs críticas de operaciones aeroportuarias y RRHH",
+    "Angular 19 · Signals · WCAG 2.1 AA",
+    "AI-assisted delivery (Figma → producción)",
+  ],
+};
 ```
 
 ---
 
-### `~/profile.ts`
+## Sobre mí
 
 ```typescript
 const byron: SeniorFrontend = {
@@ -53,53 +52,44 @@ const byron: SeniorFrontend = {
 
 ---
 
-### `~/stack`
+## Stack
 
-```bash
-$ tree stack/
-```
+```yaml
+frontend:
+  - Angular 17–19
+  - TypeScript
+  - Signals · RxJS · NgRx
+  - Standalone Components
+  - Micro-Frontends · Lazy Loading
+  - SCSS · Tailwind · Angular Material
 
-```
-stack/
-├── frontend/
-│   ├── Angular 17–19
-│   ├── TypeScript
-│   ├── Signals · RxJS · NgRx
-│   ├── Standalone Components
-│   ├── Micro-Frontends · Lazy Loading
-│   └── SCSS · Tailwind · Angular Material
-│
-├── design-ux/
-│   ├── Figma
-│   ├── Design Systems · Design Tokens
-│   ├── Style Dictionary · Atomic Design
-│   └── WCAG 2.1 AA · axe DevTools · Lighthouse
-│
-├── ai-workflow/
-│   ├── Claude Code · Antigravity
-│   ├── Google Gemini · Figma AI · GitHub Copilot
-│   └── Spec-Driven Development
-│
-├── bff-fullstack/
-│   ├── NestJS · Node.js · Python
-│   ├── WebSockets · REST APIs
-│   ├── MongoDB · PostgreSQL
-│   └── Azure CI/CD
-│
-└── iot-cross-platform/   # secundario
-    ├── Ionic
-    └── Raspberry Pi · ESP32
+design_ux:
+  - Figma
+  - Design Systems · Design Tokens
+  - Style Dictionary · Atomic Design
+  - WCAG 2.1 AA · axe DevTools · Lighthouse
+
+ai_workflow:
+  - Claude Code · Antigravity
+  - Google Gemini · Figma AI · GitHub Copilot
+  - Spec-Driven Development
+
+bff_fullstack:
+  - NestJS · Node.js · Python
+  - WebSockets · REST APIs
+  - MongoDB · PostgreSQL
+  - Azure CI/CD
+
+iot_cross_platform:   # secundario
+  - Ionic
+  - Raspberry Pi · ESP32
 ```
 
 ---
 
-### `~/projects`
+## Trabajo seleccionado
 
-```bash
-$ ls -la projects/ --sort=date
-```
-
-| year | client | project | stack |
+| Año | Cliente | Proyecto | Stack |
 | --- | --- | --- | --- |
 | `2020–pres.` | Vueling | **Design System** — Librería cross-product | Angular Material · Tailwind · Design Tokens |
 | `2021–23` | BCI Bank | **One Stop Shop** — Portal bancario unificado | Micro-frontends · Design System compartido |
@@ -109,40 +99,30 @@ $ ls -la projects/ --sort=date
 | `2024` | Vueling | **VY People EmergencyRoster** — Cobertura plantillas | Calendario/lista · Filtros por prioridad |
 | `2026` | Vueling | **[VY Vortex](https://enbyronment.dev/case-studies/vy-vortex.html)** — Disrupciones tiempo real | Angular 19 · Signals · WebSocket · CDK D&D |
 
-Los enlazados tienen case study completo en [enbyronment.dev](https://enbyronment.dev).
+Los proyectos enlazados tienen case study completo en [enbyronment.dev](https://enbyronment.dev).
 
 ---
 
-### `~/notes`
+## Notas
 
-```bash
-$ git log --oneline notes/
-```
+Aprendizajes que valió la pena escribir:
 
-```
-a1f4e21  por-que-angular.md          estructura como guardrail
-b3c8d12  signals-vs-rxjs.md          cada uno donde aporta
-c5e9a33  claude-code.md              ia con control
-d7f1b44  vy-vortex-demo.md           correcta vs útil
-e9a2c55  mostrar-menos.md            carga cognitiva en formularios
-```
-
-Lectura completa en [enbyronment.dev/notes](https://enbyronment.dev/#writing)
+- [Por qué sigo apostando por Angular para proyectos largos](https://enbyronment.dev/notes/por-que-angular.html) — la estructura como guardrail
+- [Signals y RxJS: usar cada uno donde realmente aporta valor](https://enbyronment.dev/notes/signals-vs-rxjs.html) — elegir herramienta, no bando
+- [Cómo integrar la IA sin perder el control del proyecto](https://enbyronment.dev/notes/claude-code.html) — la IA acelera lo que entiendes
+- [La diferencia entre una pantalla correcta y una útil](https://enbyronment.dev/notes/vy-vortex-demo.html) — mostrar todo no es informar
+- [Reducir la carga cognitiva en formularios complejos](https://enbyronment.dev/notes/mostrar-menos.html) — mostrar menos, mostrar a tiempo
 
 ---
 
-### `~/contact`
+## Hablemos
 
-```bash
-$ contact --status=open
-```
-
-```
-DISPONIBLE      Senior Frontend (Angular preferentemente)
-SECTORES        producto · healthtech · fintech · govtech
-MODALIDAD       remoto · híbrido (Alicante) · presencial UE
-MOTIVA          equipos donde UX no es la última capa,
-                sino parte del diseño desde el primer commit
+```yaml
+disponible: Senior Frontend (Angular preferentemente)
+sectores:   producto · healthtech · fintech · govtech
+modalidad:  remoto · híbrido (Alicante) · presencial UE
+motiva:     equipos donde UX no es la última capa,
+            sino parte del diseño desde el primer commit
 ```
 
 [enbyronment.dev](https://enbyronment.dev) · [LinkedIn](https://www.linkedin.com/in/byjosedev/) · [byjose007@gmail.com](mailto:byjose007@gmail.com)
@@ -151,12 +131,8 @@ MOTIVA          equipos donde UX no es la última capa,
 
 <div align="center">
 
-```bash
-~ byron@enbyronment:~ $ exit
-
-Connection closed.
+```typescript
+// Construido con criterio, no con plantilla.
 ```
-
-<sub>Construido con criterio, no con plantilla.</sub>
 
 </div>
