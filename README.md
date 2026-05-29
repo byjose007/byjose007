@@ -83,11 +83,10 @@ iot_cross_platform:   # secundario
 ## Trabajo seleccionado
 
 | Año | Cliente | Proyecto | Stack |
-| --- | --- | --- | --- |
+|:---:|:--------|:---------|:------|
 | `2021–23` | BCI Bank | **One Stop Shop** — Portal bancario unificado | Micro-frontends · Design System compartido |
-
 | `2023` | BCI Health | **[Pegasi](https://enbyronment.dev/case-studies/pegasi.html)** — Software oncológico | Angular · NestJS BFF · Micro-FE · WCAG 2.1 AA |
-| `2024.` | Vueling | **Design System** — Librería cross-product | Angular Material · Tailwind · Design Tokens |
+| `2024` | Vueling | **Design System** — Librería cross-product | Angular Material · Tailwind · Design Tokens |
 | `2024` | Vueling | **VY People PRL** — Prevención riesgos laborales | Divulgación progresiva · Validación inline |
 | `2025` | Vueling | **VY People AenaBadge** — Acreditaciones AENA | Stepper multi-paso · Gestión de roles |
 | `2025` | Vueling | **VY People EmergencyRoster** — Cobertura plantillas | Calendario/lista · Filtros por prioridad |
