@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Byron Armijos — Senior Frontend Engineer" width="100%">
+<img src="./mybbaner.svg" alt="Byron Armijos — Senior Frontend Engineer" width="100%">
 
 <br>
 
