@@ -19,7 +19,7 @@
 const currentRole = {
   empresa:  "Vueling Airlines",
   via:      "Capitole Consulting",
-  rol:      "Senior Frontend Engineer",
+  rol:      "Frontend Developer",
   desde:    "Febrero 2024",
   enfoque: [
     "SPAs críticas de operaciones aeroportuarias y RRHH",
@@ -35,13 +35,11 @@ const currentRole = {
 
 ```typescript
 const byron: SeniorFrontend = {
-  especialidad:  ["Angular 17–19", "TypeScript", "Micro-Frontends"],
+  especialidad:  ["Angular 17–19+", "TypeScript", "Micro-Frontends"],
   capa_extra:    ["UX/UI", "Design Systems", "Accesibilidad WCAG 2.1 AA"],
   bff_fullstack: ["NestJS", "Node.js", "Python"],
   dominios:      ["Aviación", "Salud", "Banca", "Seguros"],
   experiencia:   "10+ años",
-  filosofía:
-    "La pantalla debe pensar por ti, no pedirte que pienses por ella.",
 };
 ```
 
@@ -86,12 +84,13 @@ iot_cross_platform:   # secundario
 
 | Año | Cliente | Proyecto | Stack |
 | --- | --- | --- | --- |
-| `2020–pres.` | Vueling | **Design System** — Librería cross-product | Angular Material · Tailwind · Design Tokens |
 | `2021–23` | BCI Bank | **One Stop Shop** — Portal bancario unificado | Micro-frontends · Design System compartido |
-| `2022–25` | Vueling | **VY People PRL** — Prevención riesgos laborales | Divulgación progresiva · Validación inline |
+
 | `2023` | BCI Health | **[Pegasi](https://enbyronment.dev/case-studies/pegasi.html)** — Software oncológico | Angular · NestJS BFF · Micro-FE · WCAG 2.1 AA |
-| `2024` | Vueling | **VY People AenaBadge** — Acreditaciones AENA | Stepper multi-paso · Gestión de roles |
-| `2024` | Vueling | **VY People EmergencyRoster** — Cobertura plantillas | Calendario/lista · Filtros por prioridad |
+| `2024.` | Vueling | **Design System** — Librería cross-product | Angular Material · Tailwind · Design Tokens |
+| `2024` | Vueling | **VY People PRL** — Prevención riesgos laborales | Divulgación progresiva · Validación inline |
+| `2025` | Vueling | **VY People AenaBadge** — Acreditaciones AENA | Stepper multi-paso · Gestión de roles |
+| `2025` | Vueling | **VY People EmergencyRoster** — Cobertura plantillas | Calendario/lista · Filtros por prioridad |
 | `2026` | Vueling | **[VY Vortex](https://enbyronment.dev/case-studies/vy-vortex.html)** — Disrupciones tiempo real | Angular 19 · Signals · WebSocket · CDK D&D |
 
 Los proyectos enlazados tienen case study completo en [enbyronment.dev](https://enbyronment.dev).
@@ -113,11 +112,10 @@ Aprendizajes que valió la pena escribir:
 ## Hablemos
 
 ```yaml
-disponible: Senior Frontend (Angular preferentemente)
+disponible:  Frontend Developer (Angular preferentemente)
 sectores:   producto · healthtech · fintech · govtech
-modalidad:  remoto · híbrido (Alicante)
-motiva:     equipos donde UX no es la última capa,
-            sino parte del diseño desde el primer commit
+modalidad:  remoto
+
 ```
 
 [enbyronment.dev](https://enbyronment.dev) · [LinkedIn](https://www.linkedin.com/in/byjosedev/) · [byjose007@gmail.com](mailto:byjose007@gmail.com)
