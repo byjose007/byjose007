@@ -102,7 +102,7 @@ Los proyectos enlazados tienen case study completo en [enbyronment.dev](https://
 
 Aprendizajes que valió la pena escribir:
 
-- [Por qué sigo apostando por Angular para proyectos largos](https://enbyronment.dev/notes/por-que-angular.html) — la estructura como guardrail
+- [Por qué sigo apostando por Angular para proyectos largos](https://enbyronment.dev/notes/por-que-angular.html) — orden, escalabilidad y mantenimiento
 - [Signals y RxJS: usar cada uno donde realmente aporta valor](https://enbyronment.dev/notes/signals-vs-rxjs.html) — elegir herramienta, no bando
 - [Cómo integrar la IA sin perder el control del proyecto](https://enbyronment.dev/notes/claude-code.html) — la IA acelera lo que entiendes
 - [La diferencia entre una pantalla correcta y una útil](https://enbyronment.dev/notes/vy-vortex-demo.html) — mostrar todo no es informar
