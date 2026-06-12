@@ -40,7 +40,7 @@
   <text font-family="'SF Mono','Cascadia Code','Consolas',monospace" font-size="13">
 
     <!-- Line 1: comment -->
-    <tspan x="48" y="87" fill="#6a9955">// Byron Armijos · Frontend Developer · Alicante, ES</tspan>
+    <tspan x="48" y="87" fill="#6a9955">// Byron Armijos · Frontend Developer</tspan>
 
     <!-- Line 2: blank -->
     <tspan x="48" y="109" fill="#cccccc"> </tspan>
